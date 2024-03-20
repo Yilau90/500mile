@@ -4,7 +4,7 @@
 https://etnaaaaa.neocities.org/500%20miles 
 
 
-## Assignment requirements:
+### Assignment requirements:
 Create a proposal for a (serious) game that uses data to address a social or cultural issue, or brings to light a social or cultural issue in relation to datafication. Illustrate the game with a prototype or storyboard. Keep in mind the gaming platform, genres, etc.
 Write a rationale that discusses your game in relation to concepts from the literature. How does the game use "play" to create meaning and achieve rhetorical goals? 
 
